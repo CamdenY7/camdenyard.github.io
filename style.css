@@ -4,9 +4,11 @@
   text-decoration: underline;
   border: 0px;
   white-space: nowrap;
+  background-color: 000000100;
 }
 #top {
   font-size: 12px;
-  white-space: nowrap;
   border: 0px;
+  white-space: nowrap;
+  background-color: 000000100;
 }
