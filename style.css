@@ -2,9 +2,9 @@
   font-size: 12px;
   border-color: none;
   white-space: nowrap;
-  background-color: none;
+  background-color: rgba(25,25,25,1);
 }
 #c {
-  color: (20,20,255);
+  color: rgb(20,20,255);
   text-decoration: underline;
 }
