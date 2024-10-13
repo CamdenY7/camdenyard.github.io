@@ -5,6 +5,10 @@
 #c {
   color: rgb(20,20,255);
   text-decoration: underline;
+  padding-left: 25px;
+}
+#top-right {
+ padding-right: 25px;
 }
 .button {
   border-color: rgba(25,25,25, 0);
