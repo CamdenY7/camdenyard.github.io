@@ -1,10 +1,12 @@
 #top {
   font-size: 12px;
-  border-color: rgba(25,25,25,0);
   white-space: nowrap;
-  background-color: rgba(25,25,25,1);
 }
 #c {
   color: rgb(20,20,255);
   text-decoration: underline;
+}
+.button {
+  border-color: rgba(25,25,25, 0);
+  background-color: rgba(25,25,25, 0);
 }
